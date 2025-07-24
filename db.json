@@ -65,6 +65,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
-    }
+    },
+    {
+  "id": 1004,
+  "category": "education",
+  "title": "STEM Fair for Kids",
+  "description": "A fun-filled day of science, tech, engineering, and math for children of all ages.",
+  "location": "Innovation Hall",
+  "date": "October 5, 2022",
+  "time": "09:30",
+  "petsAllowed": false,
+  "organizer": "Dr. Codey Thinkwell"
+}
   ]
 }
